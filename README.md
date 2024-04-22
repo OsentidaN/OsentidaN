@@ -1,5 +1,5 @@
-#Osentida Nguema
-![Imagen de Portada](img/IMG_20240422_060704_801(1).jpg)
+# Repositorio de Osentida Nguema
+![Imagen de Portada](img/hedwig.jpg)
 
 ## Descripción 
 Breve descripción del proyecto, objetivos y funcionalidades principales.
