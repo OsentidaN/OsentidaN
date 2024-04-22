@@ -1,5 +1,5 @@
-# Página de Osentida Nguema
-![Imagen de Portada](url_de_la_imagen)
+#Osentida Nguema
+![Imagen de Portada](img/IMG_20240422_060704_801(1).jpg)
 
 ## Descripción 
 Breve descripción del proyecto, objetivos y funcionalidades principales.
