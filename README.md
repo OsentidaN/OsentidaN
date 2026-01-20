@@ -1,5 +1,4 @@
 # Repositorio de Osentida Nguema
-![Imagen de Portada](img/hedwig.jpg)
 
 ## Sobre mí
 Hola, 
