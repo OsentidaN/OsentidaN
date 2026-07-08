@@ -1,5 +1,5 @@
 # 👩‍💻 Osentida Nguema (Osen)
-### **Desarrolladora Full-Stack Junior | Especialización en Seguridad Aplicada**
+### **Desarrolladora Full-Stack Junior**
 
 ---
 
